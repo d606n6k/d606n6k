@@ -1,4 +1,6 @@
-### Hi there 👋 - New profile readme incoming :)
+### Hi, my name is William!
+
+A highly motivated Full Stack Web Developer with over six years of experience assisting clients in the private sector launch and maintain their websites + infrastructure. Advanced knowledge of building efficient e-commerce solutions including Bigcommerce, Magento, Salesforce and Woocommerce. Detailed knowledge of managing and planning website builds and assisting clients in maximizing the utility of their online presence. Seeking a position to grow and expand into new and emerging Web/IT technologies.
 
 <!--
 **d606n6k/d606n6k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
