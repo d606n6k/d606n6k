@@ -2,8 +2,8 @@
 A highly motivated Full Stack Web Developer with over seven years of experience assisting clients in the private sector launch and maintain their websites + infrastructure. Advanced knowledge of building efficient e-commerce solutions including Bigcommerce, Magento, Salesforce and Woocommerce. Detailed knowledge of managing and planning website builds and assisting clients in maximizing the utility of their online presence. Seeking a position to grow and expand into new and emerging Web/IT technologies.
 <hr />
 
-## 🔭 I’m currently working on https://knownpointtechnologies.com/
-<br />
+## 🔭 I’m currently working on https://knownpointtechnologies.com/ <br/>
+
 ## 🧰 My Tech Toolbox
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
