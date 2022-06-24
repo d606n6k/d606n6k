@@ -12,7 +12,6 @@ A highly motivated Full Stack Web Developer with over seven years of experience 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50"/>
-  https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/mongodb/mongodb-original.svg
   <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/mongodb/mongodb-original.svg"width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
