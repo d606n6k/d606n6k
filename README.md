@@ -3,7 +3,7 @@ A highly motivated Full Stack Web Developer with over seven years of experience 
 <hr />
 
 ## 🔭 I’m currently working on https://knownpointtechnologies.com/
-
+<br />
 ## 🧰 My Tech Toolbox
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
