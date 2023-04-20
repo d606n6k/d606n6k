@@ -1,9 +1,5 @@
 ### Hi, my name is William!
 
-🔭 I’m currently working on https://knownpointtechnologies.com as a Software Engineer (MERN)<br/>
-I also am a Bootcamp Teaching Assistant for 2U/Trilogy Education(https://www.2u.com)  <br />
-and I am building out a fun tool for the ARPG Path of Exile(https://www.pathofexile.com) - Devsite: https://poepaperdoll.herokuapp.com/
-
 A highly motivated Full Stack Web Developer with over seven years of experience assisting clients in the private sector launch and maintain their websites + infrastructure. Advanced knowledge of building efficient e-commerce solutions including Bigcommerce, Magento, Salesforce and Woocommerce. Detailed knowledge of managing and planning website builds and assisting clients in maximizing the utility of their online presence. Seeking a position to grow and expand into new and emerging Web/IT technologies.
 <hr />
 
