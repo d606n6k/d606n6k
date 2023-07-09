@@ -22,9 +22,9 @@ A highly motivated Full Stack Web Developer with over seven years of experience 
 <a href="https://github.com/d606n6k/d606n6k">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d606n6k&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/d606n6k/d606n6k">
+<!-- <a href="https://github.com/d606n6k/d606n6k">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d606n6k&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="William's GitHub Stats" />
-</a>
+</a> -->
 </div>
 <br>
 <!--
